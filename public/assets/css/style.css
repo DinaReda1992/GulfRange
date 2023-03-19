@@ -263,7 +263,7 @@ address,caption,cite,code,dfn,th,var {
 	font-weight:normal;
 }
 caption,th {
-	text-align:right;
+	text-align:left;
 }
 q:before,q:after {
 	content:'';
@@ -279,7 +279,7 @@ body {
   vertical-align: baseline;
 	font-size: 14px;
 	line-height: 25px;
-	font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif; 
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif; 
 	font-weight: normal;
 	color: #7e8082;
 	background-color: #fff;
@@ -397,7 +397,7 @@ body {
   display: inline-block;
   padding:0;
   top: 26px;
-  left: 35px;
+  right: 35px;
   z-index:29;
   -webkit-transition: top .4s ease 0s;
   -o-transition: top .4s ease 0s;
@@ -737,21 +737,21 @@ support for no js
 /******   CAPTIONS   ******/
 .tp-caption.dark-light-32 {
 	color:#4b4e53;
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 32px;
 	line-height: 32px;
 	font-weight: 300;
 }
 .tp-caption.dark-black-100 {
 	color:#4b4e53;
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 100px;
 	line-height: 100px;
 	font-weight: 900;
 }
 .tp-caption.dark-light-100 {
 	color:#4b4e53;
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 100px;
 	line-height: 100px;
 	font-weight: 300;
@@ -770,7 +770,7 @@ support for no js
   color:#fff !important;
 }
 .light-73-wide{
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 73px;
 	line-height: 73px;
 	font-weight: 300;
@@ -778,7 +778,7 @@ support for no js
   color:#4b4e53;
 }
 .light-72-wide{
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 72px;
 	line-height: 72px;
 	font-weight: 300;
@@ -786,7 +786,7 @@ support for no js
   color:#4b4e53;
 }
 .light-70-wide{
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 70px;
 	line-height: 70px;
 	font-weight: 300;
@@ -794,7 +794,7 @@ support for no js
   color:#4b4e53;
 }
 .light-69-wide{
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 69px;
 	line-height: 69px;
 	font-weight: 300;
@@ -802,7 +802,7 @@ support for no js
   color:#4b4e53;
 }
 .light-60-wide{
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 60px;
 	line-height: 60px;
 	font-weight: 300;
@@ -810,14 +810,14 @@ support for no js
   color:#4b4e53;
 }
 .light-60{
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 60px;
 	line-height: 60px;
 	font-weight: 300;
   color:#4b4e53;
 }
 .light-56-wide{
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 56px;
 	line-height: 56px;
 	font-weight: 300;
@@ -825,7 +825,7 @@ support for no js
   color:#4b4e53;
 }
 .light-52-wide{
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 54px;
 	line-height: 56px;
 	font-weight: 300;
@@ -833,7 +833,7 @@ support for no js
   color:#4b4e53;
 }
 .light-50-wide{
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 50px;
 	line-height: 64px;
 	font-weight: 300;
@@ -841,7 +841,7 @@ support for no js
   color:#4b4e53;
 }
 .light-42-wide{
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 42px;
 	line-height: 46px;
 	font-weight: 300;
@@ -849,21 +849,21 @@ support for no js
   color:#4b4e53;
 }
 .norm-42-wide{
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 42px;
 	line-height: 46px;
   letter-spacing:2px;
   color:#4b4e53;
 }
 .norm-40-wide{
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 40px;
 	line-height: 46px;
   letter-spacing:2px;
   color:#4b4e53;
 }
 .norm-16-wide{
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 16px;
 	line-height: 18px;
 	font-weight: 300;
@@ -871,7 +871,7 @@ support for no js
   color:#4b4e53;
 }
 .norm-16{
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 16px;
 	line-height: 25px;
 	font-weight: 400;
@@ -897,9 +897,6 @@ support for no js
 	}
 	.tp-left{
 		left:60px !important;
-	}
-	.tp-right{
-		right:60px !important;
 	}
 	.tp-caption.center-0-478{
 		left: 50% !important;
@@ -951,21 +948,21 @@ support for no js
 /*****  SLIDE 2   *****/
 .tp-caption.dark-light-61 {
 	color:#4b4e53;
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 61px;
 	font-weight: 300;
 	letter-spacing:7px;
 }
 .tp-caption.dark-black-63 {
 	color:#4b4e53;
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 63px;
 	font-weight: 900;
 	letter-spacing:5px;
 }
 .tp-caption.dark-light-54 {
 	color:#4b4e53;
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 54px;
 	font-weight: 300;
 	letter-spacing:7px;
@@ -974,14 +971,14 @@ support for no js
 /*****  SLIDE 3   *****/
 .tp-caption.dark-light-60 {
 	color:#4b4e53;
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 75px;
 	line-height: 85px;
 	font-weight: 300;
 }
 .tp-caption.dark-black-60 {
 	color:#4b4e53;
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 75px;
 	line-height: 85px;
 	font-weight: 900;
@@ -1050,7 +1047,7 @@ support for no js
 }
 .title-fs-60 {
 	color:#4b4e53;
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 60px;
 	line-height: 60px;
 	font-weight: 300;
@@ -1063,19 +1060,19 @@ support for no js
 }
 .fes1-box{
   position:relative;
-	padding-right: 55px;
+	padding-left: 55px;
 	padding-bottom: 10px;
 }
 .fes1-box-icon{
 	position:absolute;
 	top: 0;
-	right: 0;
+	left: 0;
 	color:#4b4e53;
 	font-size: 35px;
 }
 .fes1-box h3 {
 	color:#4b4e53;
-  font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	font-size:18px;
 	margin-bottom:10px;
@@ -1118,7 +1115,7 @@ support for no js
 }
 .title-fs-45 {
 	color:#4b4e53;
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 45px;
 	line-height: 45px;
 	font-weight: 300;
@@ -1156,18 +1153,18 @@ support for no js
 }
 .fes4-title-cont {
   position: relative;
-  padding-right: 70px;
+  padding-left: 70px;
   padding-bottom: 15px;
 }
 .fes4-box-icon{
   position: absolute;
   top: 7px;
-  right: 0;
+  left: 0;
   color: #4b4e53;
   font-size: 45px;
 }
 .fes4-title-cont h3, .title-18 {
-  font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
   color: #4b4e53;
   font-weight: 300;
   font-size: 18px;
@@ -1176,17 +1173,17 @@ support for no js
 .section-title {
   margin:0;
   padding:22px 25px 24px 25px;
-  font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
 	font-weight:300;
 	font-size:30px;
 	line-height:36px;
 	color:#4b4e53; 
-  border-right:#4b4e53 2px solid;
+  border-left:#4b4e53 2px solid;
 }
 .section-title-2 {
   margin:0;
   padding:25px 25px 27px 25px;
-  font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
 	font-weight:300;
 	font-size:30px;
 	line-height:30px;
@@ -1194,15 +1191,15 @@ support for no js
 }
 .section-title-3 {
   margin:0;
-  padding:15px 23px 17px 20px;
-  font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif;
+  padding:15px 20px 17px 23px;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
 	font-weight:300;
 	font-size:23px;
   font-weight:400;
   letter-spacing:3px;
 	line-height:32px;
 	color:#4b4e53; 
-  border-right:#4b4e53 2px solid;
+  border-left:#4b4e53 2px solid;
 }
 
 .p-50-cont{ padding-top:50px; padding-bottom:50px;}
@@ -1283,7 +1280,7 @@ support for no js
 =====================================================*/
 .fes5-box h3 {
   color: #4b4e53;
-  font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
   font-weight: bold;
   font-size: 18px;
   margin-bottom: 7px;
@@ -1298,7 +1295,7 @@ support for no js
 }
 .fes6-box h3 {
   color: #4b4e53;
-  font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
   font-weight: normal;
   font-size: 18px;
   margin: 0;
@@ -1318,19 +1315,19 @@ support for no js
 =====================================================*/
 .fes7-box {
   position: relative;
-  padding-right: 47px;
+  padding-left: 47px;
   padding-bottom: 10px;
 }
 .fes7-box-icon {
   position: absolute;
   top: 2px;
-  right: 0;
+  left: 0;
   color: #4b4e53;
   font-size: 30px;
 }
 .fes7-box h3 {
   color: #4b4e53;
-  font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
   font-weight: bold;
   font-size: 16px;
   margin-bottom: 5px;
@@ -1424,11 +1421,11 @@ support for no js
 =====================================================*/
 .fes8-title-cont {
   position: relative;
-  padding-right: 52px;
+  padding-left: 52px;
   padding-bottom: 15px;
 }
 .fes8-title-cont h3 {
-  font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
   color: #4b4e53;
   font-weight: normal;
   font-size: 16px;
@@ -1440,7 +1437,7 @@ support for no js
 .fes8-box-icon {
   position: absolute;
   top: 0px;
-  right: 0;
+  left: 0;
   color: #4b4e53;
   font-size: 30px;
 }
@@ -1558,7 +1555,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 }
 .shop-dep-text-cont {
   position:absolute;
-  right:24px;
+  left:24px;
   bottom:20px;
   background:#fff;
   padding:17px 20px 15px 20px;
@@ -1567,7 +1564,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 .shop-dep-text-cont h4{
   margin:0;
   padding:0;
-  font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
 }
 .shop-dep-item  a{
   display:block;
@@ -1633,19 +1630,15 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 /* #SHOP #ITEMS #NEW
 =====================================================*/
 .shop-add-btn-cont {
-  margin-left:65px;
+  margin-right:65px;
 }
 .shop-sub-btn-cont {
   margin-top:-33px;
-  float:left;
+  float:right;
 }
 .shop-sub-btn-cont .post-prev-count {
-  margin-right:15px;
-  display:inline-block;
+  margin-left:15px;
 }
-/* .shop-sub-btn-cont .post-prev-count {
-  display:inline-block;
-} */
 .shop-price-cont {
   font-size:16px;
   color:#4b4e53;
@@ -1785,7 +1778,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 }
 .title-fs-45-wide {
   color: #4b4e53;
-  font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+  font-family: 'Lato',Arial,Helvetica,sans-serif;
   font-size: 45px;
   line-height: 58px;
   font-weight: 300;
@@ -1952,7 +1945,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 }
 .port-title-cont h3 {
   margin:0;
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Open Sans',Arial,Helvetica,sans-serif;
   font-size:16px;
   line-height:24px;
   font-weight:600;
@@ -1990,7 +1983,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
   padding-top:40px;
   padding-bottom:37px;
   background:#eee;
-  font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+  font-family: 'Lato',Arial,Helvetica,sans-serif;
   font-size:18px;
   line-height:18px;
   font-weight:100;
@@ -2010,7 +2003,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
   padding-top:55px;
   padding-bottom:52px;
   background:#4b4e53;
-  font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+  font-family: 'Lato',Arial,Helvetica,sans-serif;
   color:#fff;
   font-size:18px;
   line-height:18px;
@@ -2029,7 +2022,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
   display:block;
   padding-top:40px;
   padding-bottom:37px;
-  font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+  font-family: 'Lato',Arial,Helvetica,sans-serif;
   font-size:18px;
   line-height:18px;
   font-weight:100;
@@ -2070,10 +2063,10 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 .client-row .col-sm-3, .client1-item {
   padding-top: 20px;
   padding-bottom: 20px;
-  border-right: 1px solid #eee;
+  border-left: 1px solid #eee;
 }
 .client-row .col-sm-3:first-child,.client-row  .client1-item:first-child{
-  border-right: none;
+  border-left: none;
 }
 .client-row.border-bot {
   border-bottom: 1px solid #eee;
@@ -2095,7 +2088,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 .quote p{
   margin-bottom:24px;
   color:#4b4e53;
-  font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+  font-family: 'Lato',Arial,Helvetica,sans-serif;
   font-size:21px;
   line-height:32px;
   font-weight:100;
@@ -2132,14 +2125,14 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
   display: block;
   position: absolute;
   bottom: 0px;
-  left: 0px;
+  right: 0px;
   width: 128px; 
 }
 .testimonial-2:before {
   content: '"';
   position:absolute;
   top:0;
-  right:0;
+  left:0;
   font-size:60px;
   line-height:40px;
   color:#dcdddd;
@@ -2147,7 +2140,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 .testimonial-2 p{
   margin-bottom: 24px;
   color: #4b4e53;
-  font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+  font-family: 'Lato',Arial,Helvetica,sans-serif;
   font-size: 21px;
   line-height: 32px;
   font-weight: 100;
@@ -2157,7 +2150,6 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
   padding: 10px 20px;
   margin: 15px 0 15px 10px; 
   border-left: none;
-  border-right: none;
 }
 
 /* #WORK PROCESS 1 #NEW
@@ -2200,7 +2192,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
   color: #101010;
 }
 .member h3 {
-  font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+  font-family: 'Open Sans',Arial,Helvetica,sans-serif;
   font-size: 16px;
   line-height:24px;
   font-weight: 700;
@@ -2241,7 +2233,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
   margin-bottom: 10px;
 }
 #counter-1 .row > div {
-  border-right: 1px solid #dadada;
+  border-left: 1px solid #dadada;
 }
 #counter-1 .row > div:first-child {
   border: none;
@@ -2272,7 +2264,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
   padding-top:100px;
   padding-bottom:100px;
   text-align:center;
-  font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif; 
+  font-family: 'Lato',Arial,Helvetica,sans-serif; 
   font-size:36px;
   line-height:36px;
   font-weight:100;
@@ -2318,7 +2310,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 }
 .post-prev-title h3{
   margin:0;
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Open Sans',Arial,Helvetica,sans-serif;
   font-size:16px;
   line-height:26px;
   font-weight:600;
@@ -2380,14 +2372,11 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 }
 .icon-count {
   font-size:12px;
-  margin-right:7px;
+  margin-left:7px;
 }
 .post-prev-count {
-  margin-right:12px;
+  margin-left:12px;
   color:#7e8082;
-}
-.post-prev-count span{
-  display:inline-block;
 }
 .social-menu.dropdown-menu{
   border-radius:0;
@@ -2398,8 +2387,6 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
           box-shadow: 0 2px 5px 0 rgba(0,0,0,.26);
   border: none;
   background: #eee;
-  right: auto;
-  left: 0;
   z-index:25;
 }
 .social-menu.dropdown-menu li{
@@ -2420,9 +2407,6 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 .no-border {
   border:none;
 }
-.post-prev-more-cont .right a span {
-  display:inline-block;
-}
 
 @media (max-width: 480px) {
   .section-more.left, .section-more.right {
@@ -2438,9 +2422,9 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
   margin-bottom:20px;
 }
 .blog2-post-title-cont .post-prev-title {
-  padding:15px 20px 15px 0px;
-  margin-right:120px;
-  border-right: #C9CACB 1px solid;
+  padding:15px 0 15px 20px;
+  margin-left:120px;
+  border-left: #C9CACB 1px solid;
 }
 .blog2-post-title-cont {
   position:relative;
@@ -2448,17 +2432,15 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 .post-prev-date-cont {
   position: absolute;
   top: 24px;
-  right: 15px;
+  left: 15px;
 }
 .blog2-date-numb {
-  float:right;
   font-size:35px;
   font-weight:100;
-  padding-left:10px;
 }
 .blog2-month {
   font-size:13px;
-  padding-right:0px;
+  padding-left:3px;
 }
 .blog2-post-title-cont .post-prev-info {
   margin:0;
@@ -2473,7 +2455,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
     padding-left:0;
   }
   .blog2-post-title-cont .post-prev-title {
-    margin-right:70px;
+    margin-left:70px;
   }
   .blog2-date-numb {
     font-size:30px;
@@ -2499,7 +2481,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 }
 .widget-search-form button {
   position:absolute;
-  left:0;
+  right:0;
   top:8px;
   background:transparent;
 }
@@ -2532,7 +2514,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 }
 .widget-posts-img {
   float: left;
-  margin: 0 0 0 15px;
+  margin: 0 15px 0 0;
 }
 .tags a {
   display: inline-block;
@@ -2554,21 +2536,21 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 =====================================================*/
 .cis-cont{
   position: relative;
-  padding-right: 65px;
+  padding-left: 65px;
 }
 .cis-icon {
   position: absolute;
   top: 25px;
-  right: 0;
+  left: 0;
   color: #7e8082;
   font-size: 35px;
 }
 .cis-text  {
-  padding:16px 27px 18px 0px;
-  border-right:1px solid #dedede;
+  padding:16px 0px 18px 27px;
+  border-left:1px solid #dedede;
 }
 .grey-light-bg .cis-text  {
-  border-right:1px solid #bdbdbd;
+  border-left:1px solid #bdbdbd;
 }
 .cis-text h3 {
   color: #4b4e53;
@@ -2717,7 +2699,7 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url(../images/static-media/img-alfa-wide-rtl.png);
+  background-image: url(../images/static-media/img-alfa-wide.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -2732,10 +2714,10 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
   background-repeat: no-repeat;
 }
 @media only screen and (max-width : 1024px) {
-  .bg-img-alfa:before { background-image: url(../images/static-media/img-alfa-wide-1024-rtl.png);}
+  .bg-img-alfa:before { background-image: url(../images/static-media/img-alfa-wide-1024.png);}
 }
 @media (max-width : 1024px) and (orientation: portrait) {
-  .bg-img-alfa:before { background-image: url(../images/static-media/img-alfa-wide-768-rtl.png);}
+  .bg-img-alfa:before { background-image: url(../images/static-media/img-alfa-wide-768.png);}
 }
 
 .bg-dark-alfa-40:before {
@@ -2842,14 +2824,13 @@ table.shopping-cart-table tr th, table.shopping-cart-table tr td {
 }
 .breadcrumbs {
   margin-top: 53px;
-  text-align:left;
+  text-align:right;
   font-size:11px;
   letter-spacing:2px;
   text-transform:uppercase;
 }
 .breadcrumbs a{
   color:#7e8082;
-  display:inline-block;
 }
 .breadcrumbs a:hover, .bread-current{
   color:#101010;
@@ -3009,7 +2990,7 @@ label.error {
   color:#e42c3e;
   position: absolute;
   top: 5px;
-  left: 15px;
+  right: 15px;
   /* visibility:hidden !important;
   display:none !important; */
 }
@@ -3042,7 +3023,7 @@ input, textarea, select, .login-select, .controled{
 	font-size: 14px;
 	margin: 0;
 	outline: medium none;
-	padding: 8px 0 8px 20px;
+	padding: 8px 20px 8px 0;
 }
 .input-border {
   border: 1px solid #dedede; 
@@ -3132,7 +3113,7 @@ select.input-border {
 .widget h4 {
   margin-top: 16px;
   margin-bottom: 21px;
-  font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
   font-size:18px;
   font-weight:bold;
 }
@@ -3352,7 +3333,7 @@ select.input-border {
   box-shadow: 0 4px 5px rgba(0,0,0, .2);
   display: none;
   margin:0;
-  padding: 10px 24px 10px 10px;
+  padding: 10px 10px 10px 24px;
   position: absolute;
   z-index: 905;
 }
@@ -3397,11 +3378,11 @@ select.input-border {
 	padding-left: 7px;
 }
 #main-menu .sub .sub {
-  right: 100%;
+  left: 100%;
   top: 0;
 }
 #main-menu .navbar .nav .parent .parent > a:after {
-  content: "\e226";
+  content: "\e232";
   font-family: linea-icons;
   font-style: normal;
   font-weight: normal;
@@ -3411,7 +3392,7 @@ select.input-border {
   display: block;
   line-height: 1;
   position: absolute;
-  left: 5px;
+  right: 10px;
   top: 14px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -3453,7 +3434,7 @@ nav ul {
 	margin-bottom: 3px;
 	padding-bottom: 10px;
 	text-transform: uppercase;
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-weight:300;
 	color:#fff;
   border-bottom: 1px solid #585a5f;
@@ -3462,9 +3443,9 @@ nav ul {
 	padding-left:24px;
 }
 .megamenu .box.col-md-3 .icon{
-  float:right;
+  float:left;
   display: inline-block;
-  margin-left: 14px;
+  margin-right: 14px;
   margin-top: 3px;
   font-size:16px;
   line-height: 16px;
@@ -3921,7 +3902,7 @@ header.affix .logo .logo-img {
 	cursor: pointer;
 	padding-right: 15px;
   padding-top: 8px;
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-weight:300;
 }
 .pos-relative {
@@ -3936,22 +3917,22 @@ header.affix .logo .logo-img {
   background:#eee;
 }
 #mc-embedded-subscribe {
-  font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+  font-family: 'Open Sans',Arial,Helvetica,sans-serif;
   font-weight:normal;
   margin-bottom:30px;
 }
 .newsletterform {
-	float:left;
+	float:right;
 	border: none;
 	margin:0;
 	padding:0;
 }
 .nl-email-input {
 	width:350px;
-  margin-left:80px;
+  margin-right:80px;
   margin-bottom:30px;
   font-size:21px;
-  font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+  font-family: 'Lato',Arial,Helvetica,sans-serif;
   font-weight: lighter;
   border-color:#4b4e53;
 }
@@ -4083,10 +4064,10 @@ header.affix .logo .logo-img {
 .tabs-vertical.custom-tabs .tab-pane {
 	background-color: #fff;
 	border: 15px solid #eee;
-	border-left: none;
+	border-right: none;
 }
 .tabs-vertical.custom-tabs .tab-content-container {
-	padding:15px 15px 5px 0px;
+	padding:15px 0 5px 15px;
 }
 .tabs-vertical.tabs .nav-tabs>li>a {
 	margin-right: 0;
@@ -4116,11 +4097,11 @@ blockquote {
   padding: 10px 20px;
   padding-left:30px;
   margin: 0 0 20px;
-  border-right: 3px solid #eee;
+  border-left: 3px solid #eee;
 }
 blockquote, blockquote p {
   font-style: normal;
-  font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+  font-family: 'Lato',Arial,Helvetica,sans-serif;
   font-size: 21px;
   line-height:32px;
   color:#4b4e53;
@@ -4130,7 +4111,7 @@ blockquote p {
   margin-bottom:13px;
 }
 blockquote .small, blockquote footer, blockquote small{
-  font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+  font-family: 'Open Sans',Arial,Helvetica,sans-serif;
   font-size: 13px;
   color: #7e8082;
   font-style: normal;
@@ -4157,7 +4138,7 @@ blockquote.custom-blockquote {
 	padding: 25px 20px 19px 26px;
 	position:relative;
 	background-color:#f8f8f8;
-  border-right: 40px solid #ffea00;
+  border-left: 40px solid #ffea00;
 }
 blockquote.custom-blockquote:before {
 	z-index:9;
@@ -4166,7 +4147,7 @@ blockquote.custom-blockquote:before {
 	display:block;
 	content:'"';
 	position:absolute;
-	right:-29px;
+	left:-29px;
 	top:47%;
   font-size:42px;
   font-style:normal;
@@ -4248,8 +4229,8 @@ blockquote.custom-blockquote:before {
 	padding-bottom:75px;
 }
 .tls-small-img-container {
-	float:right;
-	margin-left: 15px;
+	float:left;
+	margin-right: 15px;
 }
 .tls-small-author-name{
 	font-size:14px;
@@ -4285,7 +4266,7 @@ blockquote.custom-blockquote:before {
 	display: inline;
 	margin-top: 7px;
 	font-size: 16px;
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	color: #4b4e53;
 }
 
@@ -4300,7 +4281,7 @@ blockquote.custom-blockquote:before {
 .error404-text {
 	text-align:center;
 	color:#5a5a5a;
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size:30px;
 	line-height:30px;
 	margin-bottom: 25px;
@@ -4309,7 +4290,7 @@ blockquote.custom-blockquote:before {
 .error404-numb {
 	color:#909090;
 	text-align:center;
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size:250px;
 	line-height:250px;
 	margin-bottom: 40px;
@@ -4317,7 +4298,7 @@ blockquote.custom-blockquote:before {
 }
 .error404-main-text h2 {
 	text-align:center;
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size:30px;
 	line-height:30px;
 	padding-bottom: 15px;
@@ -4349,7 +4330,7 @@ blockquote.custom-blockquote:before {
 }
 .countdown-amount {
 	display:block;
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-weight:300;
 	font-size: 40px;
 	line-height: 50px;
@@ -4493,7 +4474,7 @@ blockquote.custom-blockquote:before {
 	display: block;
 }
 .demo-total-icons {
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-weight: 300;
 	font-size: 50px;
 	line-height: 50px;
@@ -4568,8 +4549,8 @@ blockquote.custom-blockquote:before {
 .blog-cat-icon {
 	display:block;
 	text-align:center;
-	float:right;
-	margin-left: 15px;
+	float:left;
+	margin-right: 15px;
 	height:38px;
 	width:38px;
 	font-size:17px;
@@ -4663,8 +4644,8 @@ blockquote.custom-blockquote:before {
   line-height:22px;
 }
 .post-author-avatar {
-  margin-left:20px;
-  float:right;
+  margin-right:20px;
+  float:left;
 }
 .post-author-container .comment-author {
   margin-top:7px;
@@ -4685,12 +4666,6 @@ blockquote.custom-blockquote:before {
 }
 .blog-page-title small{
   font-size:12px;
-  display: inline-block;
-}
-.comment-item .pull-left{
-  float: right !important;
-  margin-right:0;
-  /* padding-left:0; */
 }
 .comment-item{
 	padding-top: 30px !important;
@@ -4710,7 +4685,7 @@ blockquote.custom-blockquote:before {
 }
 .comment-avatar{
 	width: 70px;
-  margin-left: 15px;
+  margin-right: 15px;
 	border-radius: 50%;
 }
 .comment-item-title{
@@ -4722,12 +4697,9 @@ blockquote.custom-blockquote:before {
 .comment-date {
   font-size:12px;
 }
-.comment-date a{
-  display:inline-block;
-}
 .comment-author{
   display: inline-block;
-  margin-left: 20px;
+  margin-right: 20px;
   font-weight: 700; 
 }
 #comments .media {
@@ -4878,7 +4850,7 @@ blockquote.custom-blockquote:before {
 .skillbar-title {
 	position:absolute;
 	bottom:0;
-	right:0;
+	left:0;
 	color:#4b4e53;
 }
 .skillbar-title span {
@@ -4893,7 +4865,7 @@ blockquote.custom-blockquote:before {
 }
 .skill-bar-percent {
 	position:absolute;
-	left:0px;
+	right:0px;
 	bottom:0;
 	height:40px;
 	line-height:40px;
@@ -5023,11 +4995,11 @@ ul#portfolio {
 	background: none repeat scroll 0 0 #EAEAEA;
   color: #777;
   display: inline-block;
-  float: right;
+  float: left;
   font-size: 50px;
   font-weight: normal;
   line-height: 75px;
-  margin: 6px 0 0 20px;
+  margin: 6px 20px 0 0;
   padding-bottom: 2px;
   text-align: center;
   width: 56px;
@@ -5035,7 +5007,7 @@ ul#portfolio {
 .dropcap2 {
 	color: #fff;
 	display: inline-block;
-	float: right;
+	float: left;
 	font-size: 40px;
 	height: 75px;
 	line-height: 70px;
@@ -5048,16 +5020,16 @@ ul#portfolio {
 	background-image: none;
 	background-repeat: repeat;
 	background-position: 0 0;
-	margin:8px 0 0 20px;
+	margin:8px 20px 0 0;
 }
 .dropcap3 {
   color: #777;
   display: inline-block;
-  float: right;
+  float: left;
   font-size: 60px;
   font-weight: lighter;
   line-height: 60px;
-  margin: 0 0 0 20px;
+  margin: 0 20px 0 0;
   padding-bottom: 2px;
   text-align: center;
 }
@@ -5065,11 +5037,11 @@ ul#portfolio {
 	background: none repeat scroll 0 0 #ffea00;
   color: #fff;
   display: inline-block;
-  float: right;
+  float: left;
   font-size: 50px;
   font-weight: normal;
   line-height: 75px;
-  margin: 6px 0 0 20px;
+  margin: 6px 20px 0 0;
   padding-bottom: 2px;
   text-align: center;
   width: 56px;
@@ -5154,7 +5126,7 @@ ul#portfolio {
 ===============================================================*/
 /***** #HEADINGS *****/
 h1, h2, h3{
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-weight:normal;
 	color: #4b4e53;
 	margin: 0;
@@ -5204,7 +5176,7 @@ h6 {
 	position: relative;
 	display: inline-block;
 	background-color: #FFF;
-	padding-left: 15px;
+	padding-right: 15px;
 }
 .heading-line:before {
 	content: '';
@@ -5337,8 +5309,8 @@ hr.invisible {
 }
 /***** #ICONS LIST *****/
 .icon-list {
-	padding-right: 0;
-	margin-right: 24px;
+	padding-left: 0;
+	margin-left: 24px;
 	list-style-type: none;
 }
 .icon-list li {
@@ -5346,14 +5318,14 @@ hr.invisible {
 }
 .icon-list>li [class*=" fa-"]{
 	position: absolute;
-	right: -21px;
+	left: -21px;
 	text-align: center;
 	top: 4px;
 	width: 14px;
 }
 /***** #ICONS LIST ELEGANT ICONS *****/
 .icon-list.elegant-font {
-	margin-right: 0;
+	margin-left: 0;
 	margin-bottom: 0;
 }
 .icon-li {
@@ -6003,7 +5975,7 @@ button {
   margin: 0 10px 0 -15px;
 }
 .button.black {
-	font-family: "Noto Sans Kufi Arabic", sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	color:#ffffff;
 	font-style:normal;
 	background-color:#4d4d4d;
@@ -6164,8 +6136,6 @@ a:hover, a:focus {
 .mb-210 {margin-bottom:210px;}
 
 .ml-0 {margin-left:0px !important;}
-.ml-5 {margin-left:5px;}
-.ml-7 {margin-left:7px;}
 .ml-10 {margin-left:10px;}
 .ml-20 {margin-left:20px;}
 .ml-30 {margin-left:30px !important;}
@@ -6253,10 +6223,7 @@ a:hover, a:focus {
 @media (max-width: 768px) {
   .page-title-small .breadcrumbs, .breadcrumbs  {
     margin-top: 0px;
-    /* text-align:left; */
-  }
-  .breadcrumbs {
-    text-align:right;
+    text-align:left;
   }
 }
 @media (max-width: 767px) {
@@ -6419,7 +6386,7 @@ a:hover, a:focus {
 #back-top {
 	position: fixed;
 	bottom: 16px;
-  left: 19px;
+  right: 19px;
 	padding:0;
 	margin:0;
 	z-index: 20;
@@ -6452,7 +6419,7 @@ a:hover, a:focus {
 }
 .faq-search-form button {
   position:absolute;
-  left:0;
+  right:0;
   top:8px;
   background:transparent;
 }
@@ -6490,7 +6457,7 @@ a:hover, a:focus {
 
 }
 .highlight {
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-weight:300;
 	color:#4b4e53;
   display:block;
@@ -6505,7 +6472,7 @@ a:hover, a:focus {
 }
 .milestone-details {
 	margin-left:70px;
- 	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+ 	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-weight:300;
 	font-size:18px;
 }
@@ -6539,7 +6506,7 @@ h3.ui-accordion-header:first-child {
 }
 .ui-accordion-header {
 	font-size:14px;
- 	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+ 	font-family: 'Open Sans',Arial,Helvetica,sans-serif;
 	line-height:50px;
 	margin:0;
 	background-color:#eee;
@@ -6590,10 +6557,10 @@ h3.ui-accordion-header:first-child {
   position:relative;
 	background-color: #7c8187;
 	display: block;
-	float: right;
+	float: left;
 	height: 50px;
 	width: 49px;
-	margin-left: 15px;
+	margin-right: 15px;
 	-webkit-transition: all .3s ease 0s;
 	-o-transition: all .3s ease 0s;
 	transition: all .3s ease 0s;
@@ -6624,7 +6591,7 @@ h3.ui-accordion-header:first-child {
 }
 .accord-2 .panel-title {
   font-size: 14px;
-  font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+  font-family: 'Open Sans',Arial,Helvetica,sans-serif;
 }
 .accord-2 .panel-group .panel, .accord-2 .panel-heading {
   border-radius: 0;
@@ -6684,7 +6651,7 @@ h3.ui-accordion-header:first-child {
 	margin-top: -8px;
 	position: absolute;
 	top: 50%;
-	left: 10px;
+	right: 10px;
 	font-family: 'FontAwesome';
 	speak: none;
 	font-style: normal;
@@ -6754,7 +6721,7 @@ h3.ui-accordion-header:first-child {
 	margin-top: -8px;
 	position: absolute;
 	top: 50%;
-	left: 10px;
+	right: 10px;
 	font-family: 'FontAwesome';
 	speak: none;
 	font-style: normal;
@@ -6812,11 +6779,11 @@ h3.ui-accordion-header:first-child {
 	box-shadow: none;
 }
 .toggle-no-bg.toggle-view-custom .panel {
-	border-right: 5px solid #dfdfdf;
-	border-left: none;
+	border-left: 5px solid #dfdfdf;
+	border-right: none;
 	display: none;
-	margin-right: 23px;
-	padding: 15px 36px 15px 0;
+	margin-left: 23px;
+	padding: 15px 0 15px 36px;
 }
 .toggle-no-bg  .ui-accordion-header{
 	background: none;
@@ -6843,7 +6810,7 @@ h3.ui-accordion-header:first-child {
   position: relative;
 }
 .currency-4, .price-4, .cents-4, .place2-4{
-  font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif;
+  font-family: 'Lato', Arial, Helvetica, sans-serif;
   display: inline-block;
   color: #4b4e53;
 }
@@ -6875,7 +6842,7 @@ h3.ui-accordion-header:first-child {
   display: block;
   color: #696c6f;
   line-height: 35px;
-  margin-right: 20px;
+  margin-left: 20px;
 }
 .price-button-container-4 {
   padding:0 0 80px 20px;
@@ -6925,7 +6892,7 @@ h3.ui-accordion-header:first-child {
 	color: #6b6b6b;
 	line-height: 50px;
 	border-bottom: 1px solid #efefef;
-	margin-right: 20px;
+	margin-left: 20px;
 }
 .price-container {
 	background-color: #4b4e53;
@@ -6940,15 +6907,15 @@ h3.ui-accordion-header:first-child {
 }
 .pricing-horizontal-content-container {
 	border:2px solid #eee;
-	border-left:none;
-	padding: 5px 30px 25px 0px;
+	border-right:none;
+	padding: 5px 0 25px 30px;
 }
 .pricing-horizontal-price-container {
 	padding:0;
 	background:#eee;
 	height:100%;
 	position:absolute;
-	left:15px;
+	right:15px;
 }
 .pricing-horizontal-price-container .price-container{
 	background:#eee;
@@ -6980,11 +6947,11 @@ h3.ui-accordion-header:first-child {
 	font-size: 24px;
 	line-height: 40px;
 	font-weight: normal;
-	font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif;
+	font-family: 'Lato', Arial, Helvetica, sans-serif;
 }
 .month {
 	color:#808080;
-	font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif;
+	font-family: 'Lato', Arial, Helvetica, sans-serif;
 	font-size:14px;
 	background-color:#fff;
 	padding:14px 0 14px 0;
@@ -7065,7 +7032,7 @@ a.button.medium.price-button {
 	font-size: 24px;
 	line-height: 49px;
 	font-weight: normal;
-	font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif;
+	font-family: 'Lato', Arial, Helvetica, sans-serif;
 }
 .price-col-main p.white {
 	height: 30px;
@@ -7106,7 +7073,7 @@ a.button.medium.price-button {
 	border-right:1px solid #d1d1d1;
 }
 .currency, .price, .cents {
-	font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif;
+	font-family: 'Lato', Arial, Helvetica, sans-serif;
 	display:inline-block;
 	color:#fff;
 }
@@ -7132,7 +7099,7 @@ a.button.medium.price-button {
 .cents-cont {
 	width:5px;
 	font-size:20px;
-	font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif;
+	font-family: 'Lato', Arial, Helvetica, sans-serif;
 }
 .place {
 	display:inline-block;
@@ -7150,7 +7117,7 @@ a.button.medium.price-button {
 	display:inline-block;
 	height:13px;
 	width:35px;
-	font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif;
+	font-family: 'Lato', Arial, Helvetica, sans-serif;
 	font-size:14px;
 	color:#bcbcbc;
 }
@@ -7164,7 +7131,7 @@ a.button.medium.price-button {
 	font-size: 30px;
 	line-height: 40px;
 	font-weight: normal;
-	font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif;
+	font-family: 'Lato', Arial, Helvetica, sans-serif;
 }
 .pricing-table-2 ul {
 	margin:0;
@@ -7180,7 +7147,7 @@ a.button.medium.price-button {
 	color: #6b6b6b;
 	line-height: 50px;
 	border-bottom:1px solid #efefef;
-	margin-right:20px;
+	margin-left:20px;
 }
 .pricing-table-2 ul li:last-child {
 	border-bottom:none;
@@ -7228,7 +7195,7 @@ h1.pt-col-main {
 	margin-bottom:0;
 }
 .cd-timeline-start-caption, .cd-timeline-start-date  {
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 }
 .cd-timeline-start-caption {
 	color: #4b4e53;
@@ -7432,7 +7399,7 @@ h1.pt-col-main {
 }
 .cd-date-year, .cd-date-month {
 	display:block;
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-weight:400;
 }
 .cd-date-year {
@@ -7846,7 +7813,7 @@ h2.portfolio-timeline-title {
   /*	#BACK TO TOP ====================================*/	
   #back-top {
     bottom: 9px;
-    left: 12px;
+    right: 12px;
   }
 
   /*	#HEADER MENU ====================================*/	
@@ -7859,13 +7826,7 @@ h2.portfolio-timeline-title {
     width:auto;
   }
 	.logo-2, .header.no-transparent .logo-2 {
-	  padding: 17px 13px 17px 0px;
-	}
-  .left .logo-2, .header.no-transparent .logo-2 {
-	  padding: 17px 13px 17px 0px;
-	}
-  .left.ltr .logo-2, .header.no-transparent .logo-2 {
-	  padding: 17px 13px 17px 0px;
+	  padding: 17px 0 17px 13px;
 	}
 	.logo-row {
 		width:auto;
@@ -7875,7 +7836,7 @@ h2.portfolio-timeline-title {
 	}
 	.cd-header-buttons {
 	  top: 21px;
-	  left: 50px;
+	  right: 50px;
 	  margin:0;
 	  padding:0;
 	}
@@ -7904,7 +7865,7 @@ h2.portfolio-timeline-title {
 	  margin-left: -8px;
 	}
 	.cd-search-trigger.search-is-visible{
-	  left: -37px;	
+	  right: -37px;	
 	}
 	.cd-search input {
 	  padding: 0 20px;
@@ -7912,7 +7873,7 @@ h2.portfolio-timeline-title {
 	.hamb-mob-icon {
 	  display: block;
 	  float: left;
-	  padding: 25px 5px 22px 17px; 
+	  padding: 25px 17px 22px 5px; 
 	  font-size: 29px;
 	  color: #4b4e53;
 	  -webkit-transition: padding .4s ease 0s;
@@ -7951,7 +7912,7 @@ h2.portfolio-timeline-title {
 	}
 	.menu-btn-respons-container{
 	  position: absolute;
-	  left: 0;
+	  right: 0;
 	  top: 0;
 	}
 	.main-menu-container {
@@ -8018,7 +7979,7 @@ h2.portfolio-timeline-title {
   } 
   #main-menu {
     margin: 0;
-    text-align: right;
+    text-align: left;
   }
   .header .navbar {
     margin: 0;
@@ -8049,7 +8010,7 @@ h2.portfolio-timeline-title {
     float: left;
     line-height: 16px;
     padding: 0;
-    font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+    font-family: 'Lato',Arial,Helvetica,sans-serif;
     font-weight:300;
     font-size:14px;
     padding-top: 23px;
@@ -8067,7 +8028,7 @@ h2.portfolio-timeline-title {
     padding: 16px 9px 16px 17px !important;
     text-decoration: none;
     width:100%;
-    text-align: right;
+    text-align: left;
     color:#d3d3d3 !important; 
     border:none !important;
   }
@@ -8082,12 +8043,12 @@ h2.portfolio-timeline-title {
     width: 100%;
   }
   #main-menu .navbar .nav .open-sub:before {
-    content: "\e226";
+    content: "\e232";
     font-size: 20px;
     font-family: "linea-icons" !important;
     color:#d3d3d3;
     padding-top: 15px;
-    left: 14px;
+    right: 14px;
     position: absolute;
     font-style: normal !important;
     font-weight: normal !important;
@@ -8105,7 +8066,7 @@ h2.portfolio-timeline-title {
     content: "\e200";
   }
   #main-menu .navbar .nav .active .sub .open-sub:before {
-    content: "\e226";
+    content: "\e232";
   } 
   #main-menu .navbar .nav .active .sub  .active .open-sub:before {
     content: "\e200";
@@ -8153,7 +8114,7 @@ h2.portfolio-timeline-title {
     padding: 15px 9px 15px 37px !important;
   }
   #main-menu .sub .sub {
-    right: 0;
+    left: 0;
     margin-left: 25px;
     padding-top: 0px !important;
     padding-bottom: 0px !important;
@@ -8183,7 +8144,7 @@ h2.portfolio-timeline-title {
     padding: 15px 9px 15px 27px !important;
     position: relative;
     text-transform: none;
-    font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size:13px;
     color:#d3d3d3;
     border: none;
@@ -8211,7 +8172,7 @@ h2.portfolio-timeline-title {
     overflow: visible !important;
   }
   .header-1 #main-menu .nav.navbar-nav {
-    margin-left: 54px;
+    margin-right: 54px;
   }
   .main-menu-container {
     position: absolute;
@@ -8252,7 +8213,6 @@ h2.portfolio-timeline-title {
   .nl-email-input {
     width: 240px;
     margin-right: 0px;
-    margin-left: 0px;
   }
 }
 
@@ -9491,7 +9451,7 @@ img.mfp-img {
     padding: 15px 9px 15px 27px !important;
     position: relative;
     text-transform: none;
-    font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 13px;
     color: #d3d3d3;
   }
@@ -9628,7 +9588,7 @@ img.mfp-img {
 }
 .input-group-addon.input-group-addon2 {
   border:none;  
-} 
+}
 .travel-carousel .owl-wrapper-outer {
   padding-top:105px;
 }
@@ -9877,9 +9837,9 @@ header.is-fixed {
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  left: 1em;
+  right: 1em;
   
-  content: "\e226";
+  content: "\e232";
   font-family: linea-icons;
   font-style: normal;
   font-weight: normal;
@@ -9889,7 +9849,7 @@ header.is-fixed {
   display: block;
   line-height: 1;
   position: absolute;
-  left: 25px;
+  right: 25px;
   top: 14px;
   -webkit-transition-property: -webkit-transform;
   transition-property: -webkit-transform;
@@ -9901,9 +9861,9 @@ header.is-fixed {
      transition-duration: 0.2s;
 }
 #cd-lateral-nav .item-has-children > a.submenu-open::after {
-  -webkit-transform: translateY(-50%) rotate(-90deg);
-  -ms-transform: translateY(-50%) rotate(-90deg);
-  transform: translateY(-50%) rotate(-90deg);
+  -webkit-transform: translateY(-50%) rotate(90deg);
+  -ms-transform: translateY(-50%) rotate(90deg);
+  transform: translateY(-50%) rotate(90deg);
 }
 #cd-lateral-nav .socials {
   padding: 0 32px;
@@ -9934,7 +9894,7 @@ header.is-fixed {
 } 
 .fs-primary-nav-trigger {
   position: absolute;
-  left: 15px;
+  right: 0;
   top: 0;
   height: 100%;
   width: 50px;
@@ -10010,12 +9970,12 @@ header.is-fixed {
 }
 @media only screen and (min-width: 768px) {
   .fs-primary-nav-trigger {
-    /* width: 100px; */
+    width: 100px;
     padding-left: 1em;
     background-color: transparent;
     height: 30px;
     line-height: 30px;
-    left: 15px;
+    right: 15px;
     top: 50%;
     bottom: auto;
     -webkit-transform: translateY(-50%);
@@ -10147,7 +10107,7 @@ header.is-fixed {
 }
 .tweet_time {
 	display:block;
-	float:right;
+	float:left;
   margin-bottom:7px;
 }
 .tweet_time a{
@@ -10163,8 +10123,8 @@ header.is-fixed {
 }
 #twitter-feeds .fa-twitter{
 	display: block;
-	float: right;
-	margin-left: 15px;	
+	float: left;
+	margin-right: 15px;	
 	color: #9c9fa2;
 	font-size: 24px;
 	-webkit-transition: all 0.3s ease 0s;
@@ -10179,7 +10139,7 @@ ul#flickr-feeds {
 }
 ul#flickr-feeds li {
   display: inline-block;
-  /* float: left; */
+  float: left;
 }
 ul#flickr-feeds li a {
   display: block;
@@ -10573,7 +10533,7 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
   width:100%;
 }
 .font-lato{
-  font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+  font-family: 'Lato',Arial,Helvetica,sans-serif;
 }
 
 /* #INTRO 2
@@ -10588,16 +10548,16 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
 }
 .fes2-title-45 {
 	color:#404347;
-	font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+	font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 45px;
 	line-height: 50px;
 	font-weight: 300;
 }
 .fes2-text-cont{
 	margin-top:30px;
-  font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+  font-family: 'Lato',Arial,Helvetica,sans-serif;
 	font-size: 16px;
-	line-height: 24px;
+	line-height: 25px;
   font-weight: 300;
 }
 .color-dark{
@@ -10667,11 +10627,11 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
 /* #BOXED #2.2 ***************************************************/
 #rs-offset{height:186px; position:absolute;}
 
-.font-open-sans, #main-menu.font-open-sans .navbar .nav li a, #main-menu.font-open-sans .megamenu .title{font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif !important;}
-.font-poppins, #main-menu.font-poppins .navbar .nav li a, #main-menu.font-poppins .megamenu .title, #main-menu .megamenu .title.font-poppins{font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif !important;}
-.font-montserrat, #main-menu.font-montserrat .navbar .nav li a, #main-menu.font-montserrat .megamenu .title{font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif !important;}
-.font-raleway, #main-menu.font-raleway .navbar .nav li a, #main-menu.font-raleway .megamenu .title{font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif !important;}
-.font-josefin, #main-menu.font-josefin .navbar .nav li a, #main-menu.font-josefin .megamenu .title{font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif !important;}
+.font-open-sans, #main-menu.font-open-sans .navbar .nav li a, #main-menu.font-open-sans .megamenu .title{font-family: 'Open Sans',Arial,Helvetica,sans-serif !important;}
+.font-poppins, #main-menu.font-poppins .navbar .nav li a, #main-menu.font-poppins .megamenu .title, #main-menu .megamenu .title.font-poppins{font-family: 'Poppins',Arial,Helvetica,sans-serif !important;}
+.font-montserrat, #main-menu.font-montserrat .navbar .nav li a, #main-menu.font-montserrat .megamenu .title{font-family: 'Montserrat',Arial,Helvetica,sans-serif !important;}
+.font-raleway, #main-menu.font-raleway .navbar .nav li a, #main-menu.font-raleway .megamenu .title{font-family: 'Raleway',Arial,Helvetica,sans-serif !important;}
+.font-josefin, #main-menu.font-josefin .navbar .nav li a, #main-menu.font-josefin .megamenu .title{font-family: 'Josefin Sans',Arial,Helvetica,sans-serif !important;}
 
 @media (max-width: 1024px){
   #rs-offset{height:152px;}
@@ -10717,7 +10677,7 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
 .section-title2 {
  margin: 0;
  padding: 0px 25px 0px 0px;
- font-family: "Noto Sans Kufi Arabic",Arial, Helvetica, sans-serif;
+ font-family: 'Poppins',Arial, Helvetica, sans-serif;
  font-weight: normal;
  font-size: 32px;
  line-height: 40px;
@@ -10758,7 +10718,7 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
   padding-top: 40px;
   padding-bottom: 37px;
   background: #eee;
-  font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+  font-family: 'Poppins',Arial,Helvetica,sans-serif;
   font-size: 16px;
   line-height: 18px;
   font-weight: normal;
@@ -10782,7 +10742,7 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
 	.p-90-cont, .p-100-cont, .p-110-cont{ padding-top:80px; padding-bottom:80px;}
 	.p-160-cont{ padding-top:120px; padding-bottom:120px;}
 	.pt-160-b-120-cont{ padding-top:100px; padding-bottom:70px;}
-  .pt-120-b-120-cont{ padding-top:100px; padding-bottom:70px;}
+	.pt-120-b-120-cont{ padding-top:100px; padding-bottom:70px;}
 	.mt-sm-50{margin-top:50px}
 	.mt-sm-60{margin-top:60px}
 	.pt-sm-50{padding-top:50px}
@@ -10869,7 +10829,7 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
 .fes17-title-cont h3{
   margin: 0;
   margin-bottom: 10px;
-  font-family: "Noto Sans Kufi Arabic",Arial, Helvetica, sans-serif;
+  font-family: 'Poppins',Arial, Helvetica, sans-serif;
   color: #323336;
   font-weight: normal;
   font-size: 18px;
@@ -10940,7 +10900,7 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
   transition: left .27s cubic-bezier(0.300, 0.100, 0.580, 1.000);
 }
 .work-proc2-a {
-  font-family: "Noto Sans Kufi Arabic",Arial,Helvetica,sans-serif;
+  font-family: 'Poppins',Arial,Helvetica,sans-serif;
   font-size:40px;
   font-weight:600;
   line-height:50px;
@@ -11019,9 +10979,6 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
 } */
 /* #LOGIN/REG #2.2
 =====================================================*/
-.nav-tabs>li>a {
-  margin-right: 0;
-}
 .tab6-cont{
   padding:30px 30px 20px 30px;
   border-top: none;
@@ -11155,54 +11112,42 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
 .text-white {
   color:#fff;
 }
+
 /* #FACEBOOK COMMENTS
-/*******************************************/
+=====================================================*/
 .fb-comments, .fb-comments iframe[style] {width: 100% !important;}
-/*******************************************/
-/*RTL*/
-/*******************************************/
-@media (min-width: 768px){
-  .navbar-nav {
-    float: left; 
-  }
+
+/* #FEATURES 13
+=====================================================*/
+.section-title2 {
+ margin: 0;
+ padding: 0px 25px 0px 0px;
+ font-family: 'Poppins',Arial, Helvetica, sans-serif;
+ font-weight: normal;
+ font-size: 32px;
+ line-height: 40px;
+ color: #323336;
 }
-.owl-carousel{
-  overflow: hidden;
-  direction: ltr;
+.fes13-title-cont {
+ position: relative;
+ padding: 10px 10px 10px 55px;
+ margin-bottom: 7px;
 }
-.owl-item{
-  direction: rtl;
+.fes13-title-cont h3, .title-18 {
+ font-family: 'Poppins',Arial, Helvetica, sans-serif;
+ color: #323336;
+ font-weight: normal;
+ font-size: 18px;
+ margin: 0;
 }
-.ltr{ direction: ltr; }
-.rtl{ direction: rtl; }
-.blog4-post-title-cont .post-prev-info a{
-  display:inline-block;
+.fes13-box-icon {
+ position: absolute;
+ top: 7px;
+ left: 0;
+ color: #323336;
+ font-size: 36px;
 }
-.widget-body ul.clearlist.widget-menu a{
-  display:inline-block;
-}
-.post-prev-info a{
-  display:inline-block;
-}
-.widget-posts-descr-date{
-  display:inline-block
-}
-.widget-posts li > a {
-  display:block;
-  float:right;
-}
-.post-prev-more-cont .right a{
-  display:inline-block
-}
-.post-prev-info .slash-divider, .widget-posts-descr .slash-divider{
-  display:inline-block;
-}
-.proceed-checkout  h5 span, .proceed-checkout  h3 span, .shop-item-info a {
-  display:inline-block;  
-}
-#contactSuccess span, #contactError span{
-  display:inline-block;
-}
+
 /* #INTRO
 =====================================================*/
 .purchase-title{
@@ -11248,7 +11193,6 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
   margin-right: 12px;
   position: inherit !important;
   left: 0 !important;
-
   top: 0 !important;
   width: 24px !important;
   font-size: 18px;
@@ -11260,43 +11204,6 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
 }
 .ls-1{
   letter-spacing:1px;
-}
-.purchase-sub-title .dot-separator{
-  display:inline-block;
-}
-.purchase-sub-title div{
-  display:inline-block;
-}
-
-/* #FEATURES 13
-=====================================================*/
-.section-title2 {
- margin: 0;
- padding: 0px 0px 0px 25px;
- font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif; 
- font-weight: normal;
- font-size: 32px;
- line-height: 40px;
- color: #323336;
-}
-.fes13-title-cont {
- position: relative;
- padding: 10px 55px 10px 10px;
- margin-bottom: 7px;
-}
-.fes13-title-cont h3, .title-18 {
- font-family: "Noto Sans Kufi Arabic", Arial, Helvetica, sans-serif; 
- color: #323336;
- font-weight: normal;
- font-size: 18px;
- margin: 0;
-}
-.fes13-box-icon {
- position: absolute;
- top: 7px;
- right: 0;
- color: #323336;
- font-size: 36px;
 }
 
 /* #1.25
@@ -11310,5 +11217,5 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
   }
 }
 .shop-ad-height {
-  height:473px;
+  height:200px;
 }
