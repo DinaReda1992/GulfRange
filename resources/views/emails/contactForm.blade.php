@@ -1,7 +1,8 @@
-<div class="contact-form-cont">
+<div class="container">
+<div class="contact-form-cont" style="margin-top: 50px">
     <!-- TITLE -->
     <div class="mb-40">
-        <h2 class="section-title">CONTACT <span class="bold">US</span></h2>
+        <h2 class="section-title">Get in <span class="bold">Touch</span></h2>
     </div>
     @if (Session::has('success'))
         <div class="alert alert-success">
@@ -65,7 +66,7 @@
         </div>
     </div>
 </div>
-
+</div>
 
 {{--  <div class="contact-form-cont">
     <!-- TITLE -->
