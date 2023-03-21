@@ -135,7 +135,7 @@
                     required: true,
                     maxlength: 14,
                     minlength: 9,
-                    pattern: '^((?:[+?0?0?966]+)(?:\s?\d{2})(?:\s?\d{7}))$',
+                    pattern: /^(009665|9665|\+9665|05|5)(5|0|3|6|4|9|1|8|7)([0-9]{7})$/,
                 },
                 subject: {
                     required: true,
@@ -159,7 +159,7 @@
                     required: "Phone number required",
                     maxlength: "Your mobile  number is too long",
                     minlength: "Your mobile number is too short",
-                    pattern : "enter (009665), (+9665), (9665),(05) or (5)********* followed by the mobile number"
+                    pattern : "Enter (009665), (+9665), (9665),(05) or (5)********* followed by the mobile number"
 
                 },
                 subject: {

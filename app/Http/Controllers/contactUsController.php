@@ -26,14 +26,22 @@ class contactUsController extends Controller
             'message' => 'required'
         ]);
   
-        Contact::create([
-            'name' => $request->name,
-            'email' => $request->email,
-            'phone' => $request->phone,
-            'subject' => $request->subject,
-            'message' => $request->message
-        ]);
-        return redirect('emails.contactForm')->with('status', 'Your Message was sent successfully');
+        // Contact::create([
+        //     'name' => $request->name,
+        //     'email' => $request->email,
+        //     'phone' => $request->phone,
+        //     'subject' => $request->subject,
+        //     'message' => $request->message
+        // ]);
+
+        $contact = new Contact;
+        $contact->name = $request->name;
+        $contact->email = $request->email;
+        $contact->phone = $request->phone;
+        $contact->subject = $request->subject;
+        $contact->message = $request->message;
+        $contact->save();
+        return redirect('/')->with('status', 'Your Message was sent successfully');
 
   
         // return redirect()->back()
